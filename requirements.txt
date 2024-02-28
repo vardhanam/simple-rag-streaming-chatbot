@@ -1,0 +1,10 @@
+torch
+langchain
+accelerate
+transformers
+pypdf
+faiss-cpu
+streamlit
+bitsandbytes
+
+
