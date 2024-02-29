@@ -6,5 +6,6 @@ pypdf
 faiss-cpu
 streamlit
 bitsandbytes
-
+requests
+beautifulsoup4
 
